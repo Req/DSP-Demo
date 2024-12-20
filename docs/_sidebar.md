@@ -1,0 +1,3 @@
+- Sidebar
+  - [Foo](../README.md)
+  - [Bar](../README.md#Bar)

@@ -1,0 +1,9 @@
+{
+	"main": "index.js",
+	"scripts": {
+		"convert": "node_modules/.bin/docsify-to-pdf"
+	},
+	"devDependencies": {
+		"docsify-to-pdf": "0.0.5"
+	}
+}
